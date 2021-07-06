@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoortoDoorSurvey</string>
+    <string name="Map" />
+    <array name="status">
+        <item>Completed</item>
+        <item>In Progress</item>
+        <item>Not started</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+</resources>
